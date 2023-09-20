@@ -1,2 +1,0 @@
-import aws1
-os.system('xdg-open https://facebook.com/groups/302474258349320/')
